@@ -183,8 +183,3 @@ miniprogram/
 - ⚡ 全局状态同步（认证/标签状态）
 - ⚡ 定时器生命周期管理（防内存泄漏）
 
-## 📝 许可证 (License)
-
-MIT License
-=======
->>>>>>> c0cb93e7bac7a8ba48d156ee8ee3f90798be40fd
